@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+pyttsx3
+edge-tts
+sounddevice
+soundfile
